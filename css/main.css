@@ -656,4 +656,10 @@ img {
     height: 5rem;
   }
 }
+
+@media (max-height: 580px) {
+  #header-home .header-content {
+    display: none;
+  }
+}
 /*# sourceMappingURL=main.css.map */
