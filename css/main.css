@@ -611,6 +611,9 @@ img {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
   }
+  .items {
+    grid-gap: 0;
+  }
   #home-a .specials div {
     border-bottom: 1px #e5b25d solid;
     padding: 1rem;
