@@ -661,5 +661,8 @@ img {
   #header-home .header-content {
     display: none;
   }
+  #header-home .bottom-line {
+    display: none;
+  }
 }
 /*# sourceMappingURL=main.css.map */
