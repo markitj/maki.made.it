@@ -45,8 +45,8 @@ input[class^="btn-"]:hover {
 }
 
 .lead-item {
-  font-size: 1.3rem;
-  margin-bottom: 0.5rem;
+  font-size: 1.5rem;
+  padding-top: 0.5rem;
 }
 
 .text-center {
