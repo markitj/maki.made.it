@@ -4,7 +4,23 @@
     RW.init({
       huid: "428862",
       uid: "6cd75f84fdaedf5887b5265889f33394",
-      options: { style: "oxygen" }
+      source: "website",
+      options: {
+        advanced: {
+          layout: {
+            align: {
+              hor: "center",
+              ver: "top"
+            }
+          },
+          font: {
+            size: "18px"
+          }
+        },
+        size: "large",
+        style: "oxygen",
+        isDummy: false
+      }
     });
     RW.render();
   };
