@@ -45,7 +45,7 @@ input[class^="btn-"]:hover {
 }
 
 .lead-item {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   padding-top: 0.5rem;
 }
 
@@ -558,7 +558,7 @@ img {
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   #main-nav {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
